@@ -1,0 +1,6 @@
+com/mycompany/rentalmanagementsystem/JakartaRestConfiguration.class
+com/mycompany/rentalmanagementsystem/controller/signupcontroller.class
+com/mycompany/rentalmanagementsystem/dao/UserDAO.class
+com/mycompany/rentalmanagementsystem/resources/JakartaEE11Resource.class
+com/mycompany/rentalmanagementsystem/dao/DatabaseConnection.class
+com/mycompany/rentalmanagementsystem/model/User.class

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="jakarta.faces.html">
+    <head>
+        <title>Sigh Up</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    </head>
+    <body>
+        <h1>RENTAL MANAGEMENT SYSTEM</h1>
+        <h2>Create your Account</h2>
+        <h:form>
+            
+            <h:outputLabel for =" Name " value =" Full Name: " />
+            <br/>
+            <h:inputText id="name"
+                     value="#{signupController.name}"
+                     required="true" />
+        <br/><br/>
+
+        <h:outputLabel for="Email" value="Email:" />
+        <br/>
+        <h:inputText id="Email"
+                     value="#{signupController.email}"
+                     required="true" />
+        <br/><br/>
+        
+        <h:outputLabel for="phone" value="Phone Number:" />
+        <br/>
+        <h:inputText id="phone"
+                     value="#{signupController.phoneNumber}" />
+        <br/><br/>
+
+        <h:outputLabel for="Password" value="Password:" />
+        <br/>
+        <h:inputSecret id="Password"
+                       value="#{signupController.password}"
+                       required="true" />
+        <br/><br/>
+
+        <h:outputLabel for="ConfirmPassword" value="Confirm Password:" />
+        <br/>
+        <h:inputSecret id="ConfirmPassword"
+                       value="#{signupController.confirmPassword}"
+                       required="true" />
+        <br/><br/>
+
+        <h:commandButton value="Sign Up"
+                         action="#{signupController.signup}" />
+        </h:form>
+        
+         <p>
+        Already have an account?
+        <a href="login.xhtml">Login</a>
+         </p>
+    </body>
+</html>
