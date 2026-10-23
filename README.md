@@ -112,11 +112,11 @@ The application must be running in a configured environment to use these account
 ![RMS Login](screenshots/startup.png)
 
 ### Login Page
-![RMS Login](screenshots/loginpage.png)
+![RMS Login](screenshots/login page.png)
 
 
 ### Admin Dashboard
-![RMS Dashboard](screenshots/admindashboard.png)
+![RMS Dashboard](screenshots/admindashboard .png)
 
 ### Property Management
 ![Properties](screenshots/adminproperties.png)
