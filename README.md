@@ -85,7 +85,9 @@ Use the following demo accounts to explore the application.
 
 
 Admin
+
 ![RMS Login](screenshots/admincredentials.png)
+
 
 Tenant
 
@@ -103,8 +105,15 @@ The application must be running in a configured environment to use these account
 
 ## Screenshots
 
+### Guest Page
+![RMS Login](screenshots/guest.png)
+
 ### Sign in Page
 ![RMS Login](screenshots/startup.png)
+
+### Login Page
+![RMS Login](screenshots/loginpage.png)
+
 
 ### Admin Dashboard
 ![RMS Dashboard](screenshots/admindashboard.png)
@@ -112,5 +121,7 @@ The application must be running in a configured environment to use these account
 ### Property Management
 ![Properties](screenshots/adminproperties.png)
 
-### Financial Reports
-![Financial Reports](screenshots/reports.png)
+### Tenant Dashboard
+![Financial Reports](screenshots/tenantdashbaard.png)
+### Tenant Rental
+![RMS Login](screenshots/tenantrental.png)
