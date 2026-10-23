@@ -83,18 +83,13 @@ The source code is available for viewing and cloning. Running the application re
 
 Use the following demo accounts to explore the application.
 
-Role
-
-Username/Email
-
-Password
 
 Admin
 ![RMS Login](screenshots/admincredentials.png)
 
 Tenant
 
-![RMS Login](screenshots/.png)
+![RMS Login](screenshots/tenantcredentials.png)
 
 Important:
 
