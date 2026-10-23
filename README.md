@@ -122,7 +122,7 @@ The application must be running in a configured environment to use these account
 ![Properties](screenshots/adminproperties.png)
 
 ### Tenant Dashboard
-![RMS Login](screenshots/tenantdashbaard.png)
+![RMS Login](screenshots/tenantdashboard.png)
 
 ### Tenant Rental
 ![RMS Login](screenshots/tenantrental.png)
