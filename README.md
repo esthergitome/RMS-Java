@@ -90,11 +90,11 @@ Username/Email
 Password
 
 Admin
-
+![RMS Login](screenshots/admincredentials.png)
 
 Tenant
 
-
+![RMS Login](screenshots/.png)
 
 Important:
 
@@ -105,3 +105,17 @@ Use demo accounts with sample data, not real tenant information.
 Some Admin and Tenant actions are still under development.
 
 The application must be running in a configured environment to use these accounts.
+
+## Screenshots
+
+### Sign in Page
+![RMS Login](screenshots/startup.png)
+
+### Admin Dashboard
+![RMS Dashboard](screenshots/admindashboard.png)
+
+### Property Management
+![Properties](screenshots/adminproperties.png)
+
+### Financial Reports
+![Financial Reports](screenshots/reports.png)
