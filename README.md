@@ -81,4 +81,27 @@ This project demonstrates practical development skills using Java, Jakarta EE, a
 
 The source code is available for viewing and cloning. Running the application requires the appropriate development environment and project dependencies.
 
+Use the following demo accounts to explore the application.
 
+Role
+
+Username/Email
+
+Password
+
+Admin
+
+
+Tenant
+
+
+
+Important:
+
+These credentials are for demonstration purposes only.
+
+Use demo accounts with sample data, not real tenant information.
+
+Some Admin and Tenant actions are still under development.
+
+The application must be running in a configured environment to use these accounts.
